@@ -395,12 +395,6 @@ Supports QR versions 1–10 (up to **213 bytes** of UTF-8 at ECC level M) — su
 
 ---
 
-## 📄 License
-
-Licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
-
----
-
 <div align="center">
 
 Made with ❤️ and Python &nbsp;·&nbsp; 1 pip dependency &nbsp;·&nbsp; Runs everywhere
